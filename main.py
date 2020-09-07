@@ -1,10 +1,10 @@
-
 def main():
     #Var
     v = "\n"
     var1 = input("Parameter number 1: ")
     var2 = input("Parameter number 2: ")
     var3 = input("Parameter number 3: ")
+    #Test feature to add parameters and possible password like password43 = var10+var12
     """vars = input("how much parameters you need: ")
     var_number = 4
 
