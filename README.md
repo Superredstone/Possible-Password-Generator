@@ -4,6 +4,6 @@ This is a possible password generator, it needs 3 parameters to work, you can al
 
 This program is intended to be used in combo with a brute force
 
-#Where i can find the passwords?
+# Where i can find the passwords?
 
 All passwords will be saved into password.txt file
