@@ -1,9 +1,11 @@
 def main():
+
     #Var
     v = "\n"
     var1 = input("Parameter number 1: ")
     var2 = input("Parameter number 2: ")
     var3 = input("Parameter number 3: ")
+
     #Test feature to add parameters and possible password like password43 = var10+var12
     """vars = input("how much parameters you need: ")
     var_number = 4
@@ -32,6 +34,7 @@ def main():
     #set all in one var
     possible_passwords = password1 + v + password2 + v + password3 + v + password4 + v + password5 + v + password6 + v + password7 + v + password8 + v + password9 + v + password10 + v + password11 + v + password12 + v
     print(possible_passwords)
+
     #save passwords in a file
     with open("passwords.txt", "w") as f:
         f.write(possible_passwords)
